@@ -12,6 +12,16 @@
 
 If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
+## Why am I doing this?
+
+I've always wanted to write a blog... and code, and draw, and learn a bunch of fun things that don't seem to materialize. I want to do a lot of things, but I lack the **focus** to *actually* do them - or at least try.
+
+So my overarching goal for doing #100DaysOfCode is to practice self-discipline by making time to do the things I want to do. Specifically, I aim to:
+
+* learn the basics of web dev & design through freeCodeCamp's **Responsive Web Design Certication**
+* come up with a working blog or personal site (Jekyll, maybe?)
+* connect more with the coding community
+
 ## If you've decided to join:
 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
