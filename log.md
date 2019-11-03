@@ -33,10 +33,15 @@ So my overarching goal for doing #100DaysOfCode is to practice self-discipline b
 * [What's the difference between git fetch and git pull?](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
 * [Checking, adding remote repos (upstream and origin)](https://webkul.com/blog/syncing-local-repository-with-remote-repository-on-github/)
 
-<!-- ### Day 1: October 27, 2019 ~ Sunday
+### Day 1: November 3, 2019 ~ Sunday
 
-**Today's Progress**: 
+**Today's Progress**: Started developing my personal site using Jekyll.
 
-**Thoughts**: 
+**Thoughts**: I've been in a rut recently, anxiety and perfectionism preventing me from continuing my coding journey. After reading a [blog post](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/) by Alexander Kallaway (creator of #100DaysOfCode challenge), I got inspired to push through, knowing that what I'd come up with this day might suck, but it's fine, because I'll work on it again the next day, and the day after that, and so on, continuously improving with every iteration.
 
-**Link(s) to work**:  -->
+That's when I realized: this challenge is not just about learning how to code, but also about realizing the value of small, consistent work over big, sporadic effort.
+
+**Notes:**
+* Practice Vim to use it more seamlessly
+* I'm surprised how intuitive Vim is: automatic indenting, syntax highlighting, screen flashes when it detects a syntax error (I thought it was just broken lol)
+* Interplay of Git and Jekyll (files to include in gitignore, pushing local repo to GitHub)
