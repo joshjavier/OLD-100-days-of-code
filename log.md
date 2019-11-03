@@ -45,3 +45,15 @@ That's when I realized: this challenge is not just about learning how to code, b
 * Practice Vim to use it more seamlessly
 * I'm surprised how intuitive Vim is: automatic indenting, syntax highlighting, screen flashes when it detects a syntax error (I thought it was just broken lol)
 * Interplay of Git and Jekyll (files to include in gitignore, pushing local repo to GitHub)
+* `ls -R` - list all files, including subdirectories (recursively)
+* `pwd` - print working directory
+* `mkdir` - create a directory (folder)
+* `touch` - create a file (use mkdir first to create a new folder, then use `touch <dir>/<file>`)
+
+**Resources:**
+* [Why do I have to "git push --set-upstream origin <branch>"?](https://stackoverflow.com/questions/37770467/why-do-i-have-to-git-push-set-upstream-origin-branch)
+* [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.freecodecamp.org/news/git-the-laymans-guide-to-understanding-the-core-concepts/)
+  * Git's core functionality is to create save points in files - like in video games
+  * explained why "git add -A" is better than "git add ."
+  * better explanation of git checkout
+* [How to Create a Pull Request on GitHub - DigialOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) -- process for contributing to open-source projects (via forked repos)
