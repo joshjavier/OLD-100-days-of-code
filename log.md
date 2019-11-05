@@ -57,3 +57,19 @@ That's when I realized: this challenge is not just about learning how to code, b
   * explained why "git add -A" is better than "git add ."
   * better explanation of git checkout
 * [How to Create a Pull Request on GitHub - DigialOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) -- process for contributing to open-source projects (via forked repos)
+
+### Day 2: November 4, 2019 ~ Monday
+
+**Today's progress:** Reviewed Jekyll mechanics, pushed my personal site to a remote GitHub repo.
+
+**Thoughts:** A little slow today as I mostly just repeated what I did yesterday, but with more understanding of what each command does and how stuff works.
+
+Since I'm also practicing Git, I copied an idea from a project that uses two branches: `master` and `develop` (turns out this is a [best practice in Git branching](https://nvie.com/posts/a-successful-git-branching-model/)).
+
+**Resources:**
+* [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/)
+* [Bundle Recommended Workflow with Version Control](https://bundler.io/v2.0/bundler_workflow.html)
+* [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+* [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+* [Git Pro book](https://git-scm.com/book)
+* [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
