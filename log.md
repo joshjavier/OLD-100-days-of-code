@@ -73,3 +73,14 @@ Since I'm also practicing Git, I copied an idea from a project that uses two bra
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 * [Git Pro book](https://git-scm.com/book)
 * [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
+### Day 3-4: November 5-6, 2019 ~ Tue-Wed
+
+**Today's progress:** Read Git Pro (I'm on [chapter 2.3](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History), learned [a little bit of regex](https://www.youtube.com/watch?v=bgBWp9EIlMM), and continued learning Jekyll.
+
+**Thoughts:** I planned to finish Jekyll's Step by Step Tutorial (I'm already on [Collection](https://jekyllrb.com/docs/step-by-step/09-collections/)), but I actually fell asleep during a break. That's good because it means I'm not lacking in the motivation department, but I should watch my energy lest I should burn out.
+
+**Resources:**
+* [Tom Critchlow](https://tomcritchlow.com/) -- main blog inspo (*"Built using Jekyll, hosted on Github. All pixels designed and built by myself"*)
+* [Let Jekyll --watch](https://jekyll-windows.juthilo.com/4-wdm-gem/) -- check out if you have time to learn about the `wdm` gem (message "please add the following to your gemfile" when I'm running `build exec jekyll serve`)
+* Learn more about [Sass](https://sass-lang.com/)
