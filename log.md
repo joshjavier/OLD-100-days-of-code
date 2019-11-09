@@ -84,3 +84,22 @@ Since I'm also practicing Git, I copied an idea from a project that uses two bra
 * [Tom Critchlow](https://tomcritchlow.com/) -- main blog inspo (*"Built using Jekyll, hosted on Github. All pixels designed and built by myself"*)
 * [Let Jekyll --watch](https://jekyll-windows.juthilo.com/4-wdm-gem/) -- check out if you have time to learn about the `wdm` gem (message "please add the following to your gemfile" when I'm running `build exec jekyll serve`)
 * Learn more about [Sass](https://sass-lang.com/)
+
+### Day 5: November 9, 2019 ~ Saturday
+
+**Today's progress:** Finished vimtutor! 🎉
+
+**Thoughts:** I realized that vimtutor is just the tip of the iceberg, and there are better/faster ways of doing things (like `D` and `C` instead of `d$` and `c$`, respectively)
+
+I also got confused with my setup because I was using Vim via Git Bash (which came with Git installation), but I was referencing the vimrc in the standalone Vim I installed separately. **Opportunity for learning**, but had to stop because I was getting obsessed with optimizing my vimrc instead of actually coding.
+
+Some notes:
+- Are vimrc files inherited? i.e. configs in system vimrc are inherited to user vimrc (my guess is no. I found a [workaround](https://unix.stackexchange.com/questions/423301/extend-default-configuration-of-vim) and [why `:runtime` is better than `:source`](https://vi.stackexchange.com/questions/9250/includes-in-vimrc) )
+- Should I just use Vim that comes with Git Bash? Or is it better to use Windows-native Vim? (extending Vim with plugins like Powerline, etc.)
+
+** Resources:**
+- [The Vim book](http://www.truth.sk/vim/vimbook-OPL.pdf) by Steve Oualline -- further reading in vimtutor
+- [Other Vim books](https://iccf-holland.org/vim_books.html) via [Bram Moolenaar's site](https://moolenaar.net/) (creator of Vim) -- also check out "Learning the Vi and Vim Editors" which is the other book mentioned in vimtutor
+- [Top 50 Vim Configuration Options](https://www.shortcutfoo.com/blog/top-50-vim-configuration-options/)
+- Derek Wyatt's [Vim Video Tutorials](http://derekwyatt.org/vim/tutorials/index.html)
+- [Vim Training Class 1 - Basic motions and commands](https://www.youtube.com/watch?v=Nim4_f5QUxA) by Shawn Biddle
