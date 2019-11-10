@@ -97,9 +97,33 @@ Some notes:
 - Are vimrc files inherited? i.e. configs in system vimrc are inherited to user vimrc (my guess is no. I found a [workaround](https://unix.stackexchange.com/questions/423301/extend-default-configuration-of-vim) and [why `:runtime` is better than `:source`](https://vi.stackexchange.com/questions/9250/includes-in-vimrc) )
 - Should I just use Vim that comes with Git Bash? Or is it better to use Windows-native Vim? (extending Vim with plugins like Powerline, etc.)
 
-** Resources:**
+**Resources:**
 - [The Vim book](http://www.truth.sk/vim/vimbook-OPL.pdf) by Steve Oualline -- further reading in vimtutor
 - [Other Vim books](https://iccf-holland.org/vim_books.html) via [Bram Moolenaar's site](https://moolenaar.net/) (creator of Vim) -- also check out "Learning the Vi and Vim Editors" which is the other book mentioned in vimtutor
 - [Top 50 Vim Configuration Options](https://www.shortcutfoo.com/blog/top-50-vim-configuration-options/)
 - Derek Wyatt's [Vim Video Tutorials](http://derekwyatt.org/vim/tutorials/index.html)
 - [Vim Training Class 1 - Basic motions and commands](https://www.youtube.com/watch?v=Nim4_f5QUxA) by Shawn Biddle
+
+### Day 6: November 10, 2019 ~ Saturday
+
+**Today's progress:** Finished Jekyll's Step by Step Tutorial. Came up with a basic Vim configuration that I like.
+
+**Resources (mostly about Vim):**
+- [Indenting source code](https://vim.fandom.com/wiki/Indenting_source_code)
+- [Vim indentation recommendations w/ example](https://superuser.com/a/782592)
+- [What is `softtabstop` used for?](https://vi.stackexchange.com/q/4244)
+- [Tab settings in Vim](https://medium.com/@arisweedler/tab-settings-in-vim-1ea0863c5990) -- more contextual and layman's explanation
+- [Displaying tabs as characters](https://vi.stackexchange.com/q/422)
+- [Make Vim show ALL white spaces as a character](https://stackoverflow.com/q/1675688)
+- [Vim tab indent,change tab character](https://youtu.be/M-IqFOjY7Pk)
+- [RubyGems version specifiers](https://guides.rubygems.org/patterns/#pessimistic-version-constraint)
+
+**Thoughts:** It's been roughly a week since I started #100DaysofCode, and I feel the initial motivation boost starting to fade. So far, I learned how Jekyll, Git, and Vim works -- just enough to be able to confidently open up Git Bash and make commits without looking up if I'm typing the right command.
+
+However, I also noticed some smol things that can be improved:
+- I usually code after work, which is not a good time for the brain to absorb and retain new information. A few times I fell asleep without posting an update on Twitter, and even skipped two days this week.
+- I tend to go beyond the 1-hour minimum (which is good?) but this lack of limitation causes me to follow every rabbit hole I find, which is frankly unproductive. Yes, I learned about the [Tabs v. Spaces](https://www.youtube.com/watch?v=SsoOG6ZeyUI) debate among coders, and whether to use 2 or 4 spaces for indents, but I think I could've made faster progress if I were forced to focus for a limited amount of time.
+
+**Goals for next week:**
+- come up with an "MVP" for my personal site
+- start freeCodeCamp's Responsive Web Design Certification
