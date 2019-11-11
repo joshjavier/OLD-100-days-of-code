@@ -127,3 +127,15 @@ However, I also noticed some smol things that can be improved:
 **Goals for next week:**
 - come up with an "MVP" for my personal site
 - start freeCodeCamp's Responsive Web Design Certification
+
+### Day 7: November 11, 2019 ~ Monday
+
+**Today's progress:** 1/8 modules done from freeCodeCamp's Responsive Web Design Certification. Next up: [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+
+**Thoughts:** Shifted to coding at the start of the day, before going to work. Hopefully I'll feel less burned out after every session. This also forces me to set a time limit and make productive use of it.
+
+**Resources:**
+Today's reading focused on custom domains
+- [Using an apex domain for your GitHub Pages site](https://help.github.com/en/github/working-with-github-pages/about-custom-domains-and-github-pages#using-an-apex-domain-for-your-github-pages-site)
+- [3 Best Domain Registrars (r/webdev)](https://www.reddit.com/r/webdev/comments/7bndtw/best_domain_registrar_top_recommendations/)
+- [What should a professional domain email address look like?](https://www.reddit.com/r/webdev/comments/7bndtw/best_domain_registrar_top_recommendations/)
