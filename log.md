@@ -139,3 +139,19 @@ Today's reading focused on custom domains
 - [Using an apex domain for your GitHub Pages site](https://help.github.com/en/github/working-with-github-pages/about-custom-domains-and-github-pages#using-an-apex-domain-for-your-github-pages-site)
 - [3 Best Domain Registrars (r/webdev)](https://www.reddit.com/r/webdev/comments/7bndtw/best_domain_registrar_top_recommendations/)
 - [What should a professional domain email address look like?](https://www.reddit.com/r/webdev/comments/7bndtw/best_domain_registrar_top_recommendations/)
+
+### Day 8: November 12, 2019 ~ Tuesday
+
+**Today's progress:** ✔ Basic CSS (2/8 modules from fCC's Responsive Web Design Certification). New learnings: CSS variables, :root selector
+
+Next up: [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design)
+
+**Thoughts:** I feel uneasy just doing a freeCodeCamp course, like I feel I have to continue working on a project on the side to serve as practical application, not just theory. I guess I'm in a dilemma: on one hand I want to keep iterating on my personal site, but on the other I think I should hold off until I have learned new knowledge that will allow me to do it better. Such is the perfectionism paralysis...
+
+But since the next module is about visual design, I'll create a "version 0" of my site after that.
+
+**Resources:**
+- [CSS Terms and Definitions](https://www.impressivewebs.com/css-terms-definitions/)
+- [A Guide to Creating and Hosting a Personal Website on GitHub](https://www.impressivewebs.com/css-terms-definitions/)
+- [Serena Chen](https://serena.nz/) -- a simple and beautiful blog (discovered via [Refine Typora theme](https://theme.typora.io/theme/Refine/)
+- [karigee.com](https://karigee.com/) -- another simple blog. check out her [blogroll](https://karigee.com/blogroll)
