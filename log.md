@@ -153,5 +153,15 @@ But since the next module is about visual design, I'll create a "version 0" of m
 **Resources:**
 - [CSS Terms and Definitions](https://www.impressivewebs.com/css-terms-definitions/)
 - [A Guide to Creating and Hosting a Personal Website on GitHub](https://www.impressivewebs.com/css-terms-definitions/)
-- [Serena Chen](https://serena.nz/) -- a simple and beautiful blog (discovered via [Refine Typora theme](https://theme.typora.io/theme/Refine/)
+- [Serena Chen](https://serena.nz/) -- a simple and beautiful blog (discovered via [Refine Typora theme](https://theme.typora.io/theme/Refine/))
 - [karigee.com](https://karigee.com/) -- another simple blog. check out her [blogroll](https://karigee.com/blogroll)
+
+### Day 9: November 14, 2019 ~ Thursday
+
+**Today's progress:** 30/52 Applied Visual Design. Learned about CSS positioning and different ways of picking colors (I like `hsl()` - I think it's more intuitive than picking colors via RGB values)
+
+**Thoughts:** I skipped yesterday's session because I woke up late. Gotta take it slowly but surely...
+
+**Resources:**
+- [Color model - Wikipedia](https://en.wikipedia.org/wiki/Color_model)
+- [Color wheel/calculator](https://www.sessions.edu/color-calculator/)
