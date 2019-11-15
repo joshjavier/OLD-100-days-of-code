@@ -165,3 +165,14 @@ But since the next module is about visual design, I'll create a "version 0" of m
 **Resources:**
 - [Color model - Wikipedia](https://en.wikipedia.org/wiki/Color_model)
 - [Color wheel/calculator](https://www.sessions.edu/color-calculator/)
+
+### Day 10: November 15, 2019 ~ Friday
+
+**Today's progress:** ✔ Applied Visual Design. That's 3/8 modules done! 💪 Learned about functions for the `background` and `transform` properties, and the basics of CSS animations.
+
+Also, learned about `@keyframes`, which is called an **at-rule**. The other at-rule that I see often is the media query: `@media`.
+
+**Thoughts:** So far so good.
+
+**Resources:**
+- [cubic-bezier.com](https://cubic-bezier.com/) -- pretty nifty tool for visualizing how the bezier curves of different animation timings look like
