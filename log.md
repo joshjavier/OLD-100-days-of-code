@@ -176,3 +176,22 @@ Also, learned about `@keyframes`, which is called an **at-rule**. The other at-r
 
 **Resources:**
 - [cubic-bezier.com](https://cubic-bezier.com/) -- pretty nifty tool for visualizing how the bezier curves of different animation timings look like
+
+### Day 11: November 18, 2019 ~ Monday
+
+**Today's progress:** Finished 2 modules today: Applied Accessibility and Responsive Web Design Principles. Currently going through CSS Flexbox.
+
+**Thoughts:** Honestly, I find learning about accessibility to be quite boring - maybe because I've heard about the same concepts before and I'm just refreshing prior knowledge. Still, I learned some pretty nifty stuff like the `accesskey` and `tabindex` attributes. Also learned about media queries, but again, just the basic concepts. I'll list resources below to read in the coming days.
+
+Flexbox seems like a challenging concept, or maybe it just seems that way because I'm new to it. That said, I noticed that other display values like `float` weren't really discussed in-depth (it's where I stopped in the Coursera CSS3 course by Colleen). Why? Is it not being used as commonly as flexbox?
+
+**Resources:**
+- [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
+- [multiple h1 tags seo - Google Search](https://www.google.com/search?q=multiple+h1+tags+seo)
+  - [The Truth About Multiple H1 Tags and SEO](https://www.business2community.com/seo/the-truth-about-multiple-h1-tags-and-seo-02253002) (Published 2019 Oct 29) -- for SEOs
+  - [The Truth About Multiple H1 Tags in the HTML5 Era](https://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824) (Published 2013 Dec 17) -- longer, more technical explanation on why multiple H1 tags are correct
+- [what media query breakpoints should i use - Google Search](https://www.google.com/search?q=what+media+query+breakpoints+should+i+use)
+  - [What media query breakpoints should I use?](https://ricostacruz.com/til/css-media-query-breakpoints) by Rico Sta. Cruz
+  - [The 100% correct way to do CSS breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/) by David Gilbertson at freeCodeCamp
+  - [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+  - [Intro to Responsive Web Deisign: Pseudo-Elements, Media Queries, and More](https://www.toptal.com/responsive-web/introduction-to-responsive-web-design-pseudo-elements-media-queries) by Tomislav Krnic at Toptal
