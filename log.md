@@ -195,3 +195,12 @@ Flexbox seems like a challenging concept, or maybe it just seems that way becaus
   - [The 100% correct way to do CSS breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/) by David Gilbertson at freeCodeCamp
   - [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
   - [Intro to Responsive Web Deisign: Pseudo-Elements, Media Queries, and More](https://www.toptal.com/responsive-web/introduction-to-responsive-web-design-pseudo-elements-media-queries) by Tomislav Krnic at Toptal
+
+### Day 12: November 20, 2019 ~ Wednesday
+
+**Today's progress:** Finished CSS Flexbox! Learned about `display: flex` and related properties, and an idea of what role it plays in making webpages responsive. 2 modules left in fCC's Responsive Web Design!
+
+**Thoughts:** So flexbox overrides the default `display: block` property of block-level elements. Is this good practice / the best way to do things?
+
+**Resources:**
+- [CSS Font-Size: em vs. px vs. pt vs percent](https://kyleschaeffer.com/css-font-size-em-vs-px-vs-pt-vs-percent)
