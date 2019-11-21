@@ -204,3 +204,9 @@ Flexbox seems like a challenging concept, or maybe it just seems that way becaus
 
 **Resources:**
 - [CSS Font-Size: em vs. px vs. pt vs percent](https://kyleschaeffer.com/css-font-size-em-vs-px-vs-pt-vs-percent)
+
+### Day 13: November 21, 2019 ~ Thursday
+
+**Today's progress:** Done with CSS Grid! Now on to the last module: projects!
+
+**Thoughts:** So the CSS Grid is combined with media queries to come up with responsive web pages that shift layouts when viewed on different screens. Had a fun time previewing what each property does.
