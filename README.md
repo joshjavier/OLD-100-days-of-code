@@ -37,3 +37,4 @@ Alex recommends that you commit to no more than 2-3 challenges at a time, ideall
 
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to Alex Kallaway on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+
